@@ -1,0 +1,14 @@
+{
+  "name": "gas-docstemplate",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/DocsTemplate",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "awa2 <takanori.awatsu+npm@gmail.com> (Takanori Awatsu)",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/google-apps-script": "^1.0.8"
+  }
+}
